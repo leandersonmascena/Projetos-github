@@ -11,7 +11,7 @@ int main(){
 	std::cout << "altura: " << altura << std::endl;
 	std::cout <<"peso: " << peso << std::endl;
 	std::cout << "inicial: " << inicial <<std::endl;
-	std::cout << "estudante: " << (estudante ? "sim" : "não") << std::endl;
+	std::cout << "estudante: " << (estudante ? "sim" : "nÃ£o") << std::endl;
 	
 	return 0;
 }
